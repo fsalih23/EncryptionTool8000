@@ -70,7 +70,7 @@
 
 @media screen and (max-width: 1680px){
     .intro{
-        color: black;
+        color: gold;
         font-family: 'Courier New', Courier, monospace;
         text-align: center;
     }
@@ -107,7 +107,7 @@
         margin-top: 10px;
         bottom: 8%;
         width: 45em;
-        height: 45em;
+        height: 35em;
     }
     
     .firstfieldtext{
@@ -120,7 +120,7 @@
    button{
         position: absolute;
         display: inline-block;
-        left: 50%;
+        left: 47.5%;
         bottom: 40%;
         height: 8em;
         width: 12em;
@@ -133,7 +133,7 @@
         margin-top: 10px;
         bottom: 8%;
         width: 45em;
-        height: 45em;
+        height: 35em;
     }
     
 }
