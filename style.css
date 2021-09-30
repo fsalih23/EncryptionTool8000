@@ -117,13 +117,13 @@
         border-radius: 50%;
     }
     
-    button{
+   button{
         position: absolute;
         display: inline-block;
-        left: 46%;
+        left: 50%;
         bottom: 40%;
-        height: 4em;
-        width: 2em;
+        height: 8em;
+        width: 12em;
     }
     
     #encrypted{
