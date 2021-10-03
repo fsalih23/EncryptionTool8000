@@ -204,7 +204,7 @@
     }
 }
 
-@media screen and (max-height: 480px) and (orientation: landscape){
+@media screen and (max-height: 480px) and (max-width: 900px){
     .intro{
         color: gold;
         font-family: 'Courier New', Courier, monospace;
