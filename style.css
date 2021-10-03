@@ -1,5 +1,5 @@
 
-@media screen and (max-width: 1920px) and (min-height: 1080px){
+@media screen and (max-width: 1920px){
     .intro{
         color: gold;
         font-family: 'Courier New', Courier, monospace;
@@ -68,7 +68,7 @@
     }
 }
 
-@media screen and (max-width: 1680px) and (min-height: 900px){
+@media screen and (max-width: 1680px){
     .intro{
         color: gold;
         font-family: 'Courier New', Courier, monospace;
