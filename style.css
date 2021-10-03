@@ -1,5 +1,5 @@
 
-@media screen and (max-width: 1920px) and (min-height: 1080px) {
+@media screen and (max-width: 1920px) and (min-height: 1080px) and (orientation: landscape){
     .intro{
         color: gold;
         font-family: 'Courier New', Courier, monospace;
