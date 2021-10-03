@@ -1,5 +1,5 @@
 
-@media screen and (max-width: 1920px) {
+@media screen and (max-width: 1920px) and (min-height: 1080px) {
     .intro{
         color: gold;
         font-family: 'Courier New', Courier, monospace;
@@ -68,7 +68,7 @@
     }
 }
 
-@media screen and (max-width: 1680px){
+@media screen and (max-width: 1680px) and (min-height: 900px){
     .intro{
         color: gold;
         font-family: 'Courier New', Courier, monospace;
@@ -120,10 +120,10 @@
    button{
         position: absolute;
         display: inline-block;
-        left: 47.5%;
-        bottom: 40%;
-        height: 8em;
-        width: 12em;
+        left: 48.5%;
+        bottom: 37%;
+        height: 6em;
+        width: 10em;
     }
     
     #encrypted{
